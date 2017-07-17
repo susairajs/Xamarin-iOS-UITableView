@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamariniOSTableView", "XamariniOSTableView\XamariniOSTableView.csproj", "{CB21E41E-08BF-44D6-B7A2-30B81C84DC4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB21E41E-08BF-44D6-B7A2-30B81C84DC4C}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{CB21E41E-08BF-44D6-B7A2-30B81C84DC4C}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{CB21E41E-08BF-44D6-B7A2-30B81C84DC4C}.Release|iPhone.ActiveCfg = Release|iPhone
+		{CB21E41E-08BF-44D6-B7A2-30B81C84DC4C}.Release|iPhone.Build.0 = Release|iPhone
+		{CB21E41E-08BF-44D6-B7A2-30B81C84DC4C}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{CB21E41E-08BF-44D6-B7A2-30B81C84DC4C}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{CB21E41E-08BF-44D6-B7A2-30B81C84DC4C}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{CB21E41E-08BF-44D6-B7A2-30B81C84DC4C}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

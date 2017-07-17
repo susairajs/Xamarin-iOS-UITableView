@@ -1,0 +1,9 @@
+/Users/DELPIN/Projects/XamariniOSTableView/XamariniOSTableView/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/DELPIN/Projects/XamariniOSTableView/XamariniOSTableView/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSTableView/XamariniOSTableView/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/DELPIN/Projects/XamariniOSTableView/XamariniOSTableView/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSTableView/XamariniOSTableView/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/DELPIN/Projects/XamariniOSTableView/XamariniOSTableView/bin/iPhoneSimulator/Debug/XamariniOSTableView.exe.mdb
+/Users/DELPIN/Projects/XamariniOSTableView/XamariniOSTableView/bin/iPhoneSimulator/Debug/XamariniOSTableView.exe
+/Users/DELPIN/Projects/XamariniOSTableView/XamariniOSTableView/obj/iPhoneSimulator/Debug/XamariniOSTableView.exe
+/Users/DELPIN/Projects/XamariniOSTableView/XamariniOSTableView/obj/iPhoneSimulator/Debug/XamariniOSTableView.exe.mdb

@@ -34,7 +34,7 @@ namespace XamariniOSTableView
 		{
 			string item = list[indexPath.Row];
 			UIAlertView alert = new UIAlertView("Selected Item", item,null, "OK");
-
+			alert.Show();
 		}
 
 	}

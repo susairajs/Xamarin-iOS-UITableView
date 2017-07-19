@@ -19,6 +19,7 @@ namespace XamariniOSTableView
 			base.ViewDidLoad();
 
 			MyTable.Source = new TableSource(list);
+			MyTable.Delegate = new TableDelegate();
 
 		}
 

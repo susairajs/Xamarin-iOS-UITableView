@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{CB21E41E-08BF-44D6-B7A2-30B81C84DC4C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="XamariniOSTableView/ViewController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamariniOSTableView/TableDelegate.cs">
     <Files>
       <File FileName="XamariniOSTableView/AppDelegate.cs" Line="1" Column="1" />
       <File FileName="XamariniOSTableView/Main.storyboard" />
-      <File FileName="XamariniOSTableView/TableSource.cs" Line="7" Column="4" />
-      <File FileName="XamariniOSTableView/ViewController.cs" Line="13" Column="3" />
+      <File FileName="XamariniOSTableView/TableSource.cs" Line="22" Column="69" />
+      <File FileName="XamariniOSTableView/ViewController.cs" Line="22" Column="43" />
+      <File FileName="XamariniOSTableView/TableDelegate.cs" Line="13" Column="39" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />

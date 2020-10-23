@@ -6,8 +6,15 @@ namespace XamariniOSTableView
 {
 	public partial class ViewController : UIViewController
 	{
-		public string[] list = {"Xamarin","Windows","iOS","Android","Visual Studio","Azure","UWP","Xcode",
-			"Cognitive Service" };
+		public string[] list = { "Xamarin",
+					 "Windows",
+					 "iOS",
+					 "Android",
+					 "Visual Studio",
+					 "Azure",
+					 "UWP",
+					 "Xcode",
+					 "Cognitive Service" };
 
 		protected ViewController(IntPtr handle) : base(handle)
 		{
@@ -17,7 +24,7 @@ namespace XamariniOSTableView
 		public override void ViewDidLoad()
 		{
 			base.ViewDidLoad();
-
+			//Table source and Delegate 
 			MyTable.Source = new TableSource(list);
 			MyTable.Delegate = new TableDelegate();
 

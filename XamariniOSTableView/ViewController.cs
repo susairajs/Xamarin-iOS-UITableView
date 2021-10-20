@@ -7,7 +7,7 @@ namespace XamariniOSTableView
 	public partial class ViewController : UIViewController
 	{
 		public string[] list = {"Xamarin","Windows","iOS","Android","Visual Studio","Azure","UWP","Xcode",
-			"Cognitive Service" };
+			"Cognitive Service","MAUI", "Flutter", "AI" };
 
 		protected ViewController(IntPtr handle) : base(handle)
 		{
@@ -17,10 +17,9 @@ namespace XamariniOSTableView
 		public override void ViewDidLoad()
 		{
 			base.ViewDidLoad();
-
+			//Add Table Source
 			MyTable.Source = new TableSource(list);
 			MyTable.Delegate = new TableDelegate();
-
 		}
 
 		public override void DidReceiveMemoryWarning()

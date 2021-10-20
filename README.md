@@ -1,6 +1,6 @@
-# Xamarin-iOS-UITableView
+# Working with UITables in Xamarin.Forms
 
-Blog : https://xamarinmonkeys.blogspot.com/2018/05/uitableview-in-xamarin-ios.html
+More details : https://xamarinmonkeys.blogspot.com/2018/05/uitableview-in-xamarin-ios.html
 
 ### Sample Result 
 

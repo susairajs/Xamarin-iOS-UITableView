@@ -14,7 +14,10 @@ namespace XamariniOSTableView
 					 "Azure",
 					 "UWP",
 					 "Xcode",
-					 "Cognitive Service" };
+					 "Cognitive Service",
+           "MAUI", 
+           "Flutter", 
+           "AI"  };
 
 		protected ViewController(IntPtr handle) : base(handle)
 		{
@@ -24,10 +27,10 @@ namespace XamariniOSTableView
 		public override void ViewDidLoad()
 		{
 			base.ViewDidLoad();
+			//Add Table Source
 			//Table source and Delegate 
 			MyTable.Source = new TableSource(list);
 			MyTable.Delegate = new TableDelegate();
-
 		}
 
 		public override void DidReceiveMemoryWarning()
